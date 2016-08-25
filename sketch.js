@@ -11,6 +11,7 @@ function setup() {
   ellipse(250, 250, 330);
   ellipse(250, 250, 320);
   ellipse(250, 250, 310);
+  ellipse(250, 250, 300);
   strokeWeight(4);
   ellipse(250, 250, 200);
   ellipse(250, 250, 180);
